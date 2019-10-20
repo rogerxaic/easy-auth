@@ -1,3 +1,3 @@
 # Easy Auth
 
-Radius and LDAP mock servers
+Radius and LDAP mock servers.
